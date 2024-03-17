@@ -14,7 +14,7 @@ https://dacon.io/competitions/official/236129/overview/description
 발표자료 : [team_p2]()
 
 ## File Explanation
-- ``: 실험 방법 및 기록들이 존재하는 file
+- `Online-channel-prediction-of-product-sales.ipynb`: 실험 방법 및 기록들이 존재하는 file
 - `team_p2_code.ipynb`: 최종 모델 학습 및 추론 code 존재하는 file
   
 ## 결과
