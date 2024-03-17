@@ -11,7 +11,7 @@ https://dacon.io/competitions/official/236129/overview/description
 따라서 이번 해커톤은 이런 데이터를 파악하고 이를 바탕으로 실제 판매량을 예측하는 AI 모델 개발에 초점을 맞추고 있습니다. 
 
 ## More Information
-발표자료 : [team_p2]()
+발표자료 : [team_p2](https://github.com/gusdnr122997/lgaimers3/blob/main/Team%20p2%20solution%20Presentation.pdf)
 
 ## File Explanation
 - `Online-channel-prediction-of-product-sales.ipynb`: 실험 방법 및 기록들이 존재하는 file
