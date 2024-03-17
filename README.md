@@ -1,4 +1,3 @@
-status : 작성중
 ## 온라인 채널 제품 판매량 예측 AI 온라인 해커톤
 https://dacon.io/competitions/official/236129/overview/description
 
@@ -11,5 +10,12 @@ https://dacon.io/competitions/official/236129/overview/description
 
 따라서 이번 해커톤은 이런 데이터를 파악하고 이를 바탕으로 실제 판매량을 예측하는 AI 모델 개발에 초점을 맞추고 있습니다. 
 
+## More Information
+발표자료 : [team_p2]()
+
+## File Explanation
+- ``: 실험 방법 및 기록들이 존재하는 file
+- `team_p2_code.ipynb`: 최종 모델 학습 및 추론 code 존재하는 file
+  
 ## 결과
 Private: 24 (상위 3%), 본선 진출
